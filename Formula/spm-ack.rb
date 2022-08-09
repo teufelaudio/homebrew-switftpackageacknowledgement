@@ -1,4 +1,4 @@
-class Xcparse < Formula
+class SwiftPackageAcknowledgement < Formula
     desc "Create Licensing Views from SwiftPackageManager Packages"
     homepage "https://github.com/teufelaudio/SwiftPackageAcknowledgement"
     url "https://github.com/teufelaudio/SwiftPackageAcknowledgement.git", :tag => "0.1.6"
